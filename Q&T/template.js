@@ -4,6 +4,9 @@ return `
 
 # ${answers.title}
 
+## License
+${answers.license}
+
 ## Table of Contents
 
 * [ Description ](#Description)

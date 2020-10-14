@@ -1,6 +1,9 @@
 
 
-# dkdk
+# Trader Joe's Social Snackers
+
+## License
+L1
 
 ## Table of Contents
 
@@ -13,30 +16,30 @@
 
 
 ## Description
-fkfk
+An app that shows you pictures of Trader Joe's flaky, flavorful crackers that are perfect for entertaining. 
 
 ## Installation 
-fkfk
+Simply download from the app store onto your smarphone or mobile device.
 
 ## Usage Information
 
-kfkf
+Click the button on the homepage of the app entitle 'Show Me Crackers' and start viewing crackers!
 
 ## Credits / Contributors
 
-fkfk
+Trader Joe
 
 ## Testing Procedures
 
-kfkfk
+We tested this app in Google Chrome and Mozilla FireFox
 
 ## Questions?
 
-Check out my Github Profile at https://github.com/fkfk
+Check out my Github Profile at https://github.com/edgarallenpoe22
 
 <br>
 
-You can also email me at kfkfk.
+You can also email me at nevermore@gmail.com.
 
 
 
